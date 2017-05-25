@@ -1,2 +1,2 @@
 # DnD
-Rules, characters etc. for Nathan's DnD.
+Rules, characters etc. for the DnD on Alphaparadox's channel.
