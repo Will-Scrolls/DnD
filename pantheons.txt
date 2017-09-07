@@ -25,13 +25,18 @@ Pantheon: Starfinder
 
 
 Kanako
-Godess of the Heavens
+Goddess of the Heavens
 Active: Spend 5 mana/turn to fly at half your speed
 +2 movement, -5 hp
 Pantheon: Touhou
 
 Suwako
-Godess of the Earth
+Goddess of the Earth
 Active: Spend 5 mana to create an earth shield with 10hp in an empty adjacent square
 +10 armour, -2 movement
 Pantheon: Touhou
+
+Hecatia
+Goddess of Hell
+Active: Take 1/2 your current hp as unblockable damage to summon a demon copy of yourself for one round
++2 strength -5 mana
