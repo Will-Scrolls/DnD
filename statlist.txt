@@ -1,0 +1,13 @@
+Speed
+Strength
+Intelligence
+Charisma
+Skill
+Luck
+Magic
+
+Health
+Mana
+Stamina
+
+Movement
