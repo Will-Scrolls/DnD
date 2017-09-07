@@ -1,0 +1,6 @@
+Target		Effect
+Leg			-2 movement
+Arm			Drop item, -5 on attacks
+Heart		Bleeding -2d6 hp/turn
+Lung		Choking -2d6 stamina/turn
+Brain		Confused -2d6 mana/turn
