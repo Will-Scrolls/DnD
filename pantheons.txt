@@ -1,3 +1,16 @@
+Cthylla
+Daughter of Cthulhu
+Active: Spend 10 hp and 10 mana to summon a 5hp minor shoggoth
++2 charisma -2 skill
+Pantheon: Mythos
+
+
+Nylarthotep
+Outer God of Forbidden Secrets
+Active: Lose 20 hp to gain +10 str +10 magic for one turn
++2 intelligence -2 luck
+Pantheon: Starfinder
+
 Triune
 God of Intelligence and Travel
 Active: Take 5 damage to gain one round of double movement
