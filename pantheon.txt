@@ -1,0 +1,11 @@
+Triune
+God of Intelligence and Travel
+Active: Take 5 damage to gain one round of double movement
++2 intelligence, -2 strength
+Pantheon: Starfinder
+
+Zon-Kuthon
+God of Pain and Loss
+Active: When you are crit by an opponent, gain +20 strength for next attack
++2 strength, -2 charisma
+Pantheon: Starfinder
