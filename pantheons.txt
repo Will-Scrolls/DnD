@@ -38,5 +38,5 @@ Pantheon: Touhou
 
 Hecatia
 Goddess of Hell
-Active: Take 1/2 your current hp as unblockable damage to summon a demon copy of yourself for one round
+Active: spend 1/2 your current hp to summon a demon copy of yourself for one round
 +2 strength -5 mana
