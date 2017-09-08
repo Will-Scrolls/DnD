@@ -23,6 +23,11 @@ Active: Take 5 damage to gain one round of double movement
 +2 intelligence, -2 strength
 Pantheon: Starfinder
 
+Yaraesa
+Goddess of Sholarship and Knowledge
+Active: If you are above 1/2 hp, you can use intelligence for charisma based rolls
++5 int -5 str -5 hp
+
 Zon-Kuthon
 God of Pain and Loss
 Active: When you are crit by an opponent, gain +20 strength for next attack
