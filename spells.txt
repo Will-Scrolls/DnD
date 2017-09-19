@@ -109,6 +109,8 @@ Summon Wolf
 Cost: 5 mana
 Effect: Summon and control a wolf
 
+Elemental Spells:
+
 Summon Fire Elemental
 Cost: 20 mana
 Effect: Summon and control a fire elemental
@@ -176,4 +178,32 @@ Effect: Deals 30 damage to all enemies adjacent to you. Roll D4 if 4 Burn, D12 f
 Water Pulse
 Cost: 60 mana
 Effect: 60 damage , Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up.
+
+Aqua Ring
+Cost: 55 mana
+Effect: All adjacent allies heal half max HP last 2 turns.
+
+Stalagmite
+Cost: 60 mana
+Effect: Deal 60 damage to target opponent and 30 damage to adjacent opponents.
+
+Stone Shield
+Cost: 55 mana
+Effect: You and a target ally recieve armour equal to your level.
+
+Whirlwind
+Cost: 60 mana
+Effect: Deals 30 damage in a 2 square radius and you can rearange all enemies in that radius to another point in the radius.
+
+Galeforce
+Cost: 55 mana
+Effect: 40 damage to target enemy and they move away from you in a straight line, taking 5 damage per square moved.
+
+Steam Blast
+Cost: 80 mana
+Effect: 60 damage to target enemy, Roll d4 and if 4 burn for 1.5xlv hp and stamina damage per turn for 1d6 turns
+
+Vortex
+Cost: 80 mana
+Effect: 
 
