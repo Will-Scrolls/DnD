@@ -61,3 +61,25 @@ Cost: 30 mana
 Effect: Creates a magical horse that doubles the rider's movement speed for 10 turns
 Boost: For 30 mana, create a flying horse that gives the rider the advantages of being a flying unit
 
+Storm of Vengeance
+Cost: 100 mana
+Effect: Deal 20 damage to all enemy and friendly units in battle and their speed is halved
+Boost: Spend 50 mana/turn to maintain the effect for multiple turns
+Type: Nature
+
+Sandstorm
+Cost: 5 mana/turn
+Effect: All units take 2 damage per turn and a -4 penalty on all ranged attacks
+
+Acid Dart
+Cost: 15 mana
+Effect: Target opponent takes 5 damage per turn from acid
+
+Cone of Cold
+Cost: 25 mana
+Effect: Opponents in a 5 square cone take 4 damage and move at half speed for 3 rounds
+
+Ice Ray
+Cost: 10 mana
+Effect: Target opponent takes 4 damage and moves at half speed for 3 rounds
+
