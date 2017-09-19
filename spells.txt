@@ -135,7 +135,7 @@ Effect: 3 damage, Roll D4 if 4 burn opponent. Burns deal damage every turn equal
 
 Water Orb
 Cost: 5 mana
-Effect: 3 Damage, Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up for D6 amount of turns.
+Effect: 3 Damage, Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up.
 
 Stone Skin
 Cost: 5 mana
@@ -175,5 +175,5 @@ Effect: Deals 30 damage to all enemies adjacent to you. Roll D4 if 4 Burn, D12 f
 
 Water Pulse
 Cost: 60 mana
-Effect: 60 damage , Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up for D12 amount of turns.
+Effect: 60 damage , Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up.
 
