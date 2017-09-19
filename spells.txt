@@ -70,6 +70,7 @@ Type: Nature
 Sandstorm
 Cost: 5 mana/turn
 Effect: All units take 2 damage per turn and a -4 penalty on all ranged attacks
+Type: Earth
 
 Acid Dart
 Cost: 15 mana
@@ -98,8 +99,12 @@ Type: Fire
 Summon Landshark
 Cost: 20 mana
 Effect: A landshark appears next to you and attacks the nearest enemy
+Type: Summoning
 
 Laser Cannon
 Cost: 30 mana
 Effect: Target opponent takes 40 damage
 
+Summon Wolf
+Cost: 5 mana
+Effect: Summon and control a wolf
