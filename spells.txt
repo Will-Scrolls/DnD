@@ -78,8 +78,28 @@ Effect: Target opponent takes 5 damage per turn from acid
 Cone of Cold
 Cost: 25 mana
 Effect: Opponents in a 5 square cone take 4 damage and move at half speed for 3 rounds
+Type: Water
 
 Ice Ray
 Cost: 10 mana
-Effect: Target opponent takes 4 damage and moves at half speed for 3 rounds
+Effect: Target opponent takes 3 damage and moves at half speed for 3 rounds
+Type: Water
+
+Polarblast
+Cost: 40 mana
+Effect: All opponents within 5 squares take 6 damage and move at half speed for 5 rounds
+Type: Water
+
+Searing Beam
+Cost: 10 Mana
+Effect: Target opponent takes 6 damage and takes 6 more damage at the start of their next turn
+Type: Fire
+
+Summon Landshark
+Cost: 20 mana
+Effect: A landshark appears next to you and attacks the nearest enemy
+
+Laser Cannon
+Cost: 30 mana
+Effect: Target opponent takes 40 damage
 
