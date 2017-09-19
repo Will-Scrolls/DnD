@@ -15,3 +15,27 @@ Return Weapon
 Cost: 5 mana
 Effect: Target weapon thrown during this battle attacks target enemy then returns to your hand
 
+Rapid Plant Growth
+Cost: 15 mana
+Effect: Target enemy and all adjacent enemies cannot move for 2 turns
+Type: Nature
+
+Create Water
+Cost: 2 mana
+Effect: Create 1 liter of water
+Type: Water
+
+Magic Blade
+Cost: 5 mana/turn
+Effect: Creates a longsword made of magic
+
+Sunblast
+Cost: 30 mana
+Effect: Deal 5 damage to all enemies within 10 squares of target square and they are blinded
+Special: Deals x10 damage against undead
+Type: Light
+
+Solar Emanation
+Cost: 2 mana/turn
+Effect: Area around you is lit up and undead adjacent to you take 2 damage every turn
+
