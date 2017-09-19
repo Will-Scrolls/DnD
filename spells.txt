@@ -130,7 +130,7 @@ Cost: 80 mana
 Effect: Summon and control an Ultimate elemental
 
 Flames
-Cost: 5 mana
+Cost: 10 mana
 Effect: 3 damage, Roll D4 if 4 burn opponent. Burns deal damage every turn equal to opponent's level, roll D6 for number of turns it lasts.
 
 Water Orb
@@ -146,9 +146,34 @@ Cost: 5 mana
 Effect: Turn unit into a flier for D6 amount of turns.
 
 Flame Form 
-Cost: 60
-Effect: +5 Magic -5 Armour * 1.5 damage from water spells
+Cost: 60 mana
+Effect: +10 Magic -10 Armour * 1.5 damage from water spells for D12 amount of turns
 
 Water Form
-Cost 60
-Effect: +5 Skill +5 Luck * 1.5 damage  
+Cost: 60 mana
+Effect: +10 Skill -10 Luck * 1.5 damage  from nature spells for D12 amount of turns
+
+Air Form
+Cost: 60 mana
+Effect: Turn into a flier +10 Speed -10 Magic for D12 amount of turns
+
+Earth Form 
+Cost: 60 mana
+Effect: +10 Armour -10 Speed for D12 amount of turns
+
+True Form
+Cost: 85 mana
+Effect: +10 Magic, +10 Armour, +10 Speed, -10 Luck, -10 Charisma, -10 Skill
+
+Pyroblast
+Cost: 60 mana
+Effect: 60 damage , Roll D4 if 4 Burn, D12 for how many turns the burn lasts. Burns deal damage every turn equal to opponent's level.
+
+Blaze
+Cost: 55 mana
+Effect: Deals 30 damage to all enemies adjacent to you. Roll D4 if 4 Burn, D12 for how many turns the burn lasts. Burns deal damage every turn equal to opponent's level.
+
+Water Pulse
+Cost: 60 mana
+Effect: 60 damage , Roll D4 if 4 Burn, D12 for how many turns the burn lasts. Burns deal damage every turn equal to opponent's level.
+
