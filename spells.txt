@@ -163,7 +163,7 @@ Effect: +10 Armour -10 Speed for D12 amount of turns
 
 True Form
 Cost: 85 mana
-Effect: +10 Magic, +10 Armour, +10 Speed, -10 Luck, -10 Charisma, -10 Skill
+Effect: +10 Magic, +10 Armour, +10 Speed, -10 Luck, -10 Charisma, -10 Skill, hp/mana/stamina loss be reduced by 1 quarter of spell/skill/damage
 
 Pyroblast
 Cost: 60 mana
@@ -175,5 +175,5 @@ Effect: Deals 30 damage to all enemies adjacent to you. Roll D4 if 4 Burn, D12 f
 
 Water Pulse
 Cost: 60 mana
-Effect: 60 damage , Roll D4 if 4 Burn, D12 for how many turns the burn lasts. Burns deal damage every turn equal to opponent's level.
+Effect: 60 damage , Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up for D6 amount of turns.
 
