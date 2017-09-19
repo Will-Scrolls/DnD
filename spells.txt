@@ -38,4 +38,26 @@ Type: Light
 Solar Emanation
 Cost: 2 mana/turn
 Effect: Area around you is lit up and undead adjacent to you take 2 damage every turn
+Type: Light
+
+Swarm of Darkness
+Cost: 60 mana 10 hp
+Effect: Deals 30 damage to all enemies adjacent to you
+Special: Any opponent that loses more than one quarter of their hp from this attack has a 50% chance to instantly die
+Type: Dark
+
+Windblast
+Cost: 10 mana
+Effect: Move one enemy up to 10 squares in any direction
+Type: Air
+
+Rockwall
+Cost: 20 mana
+Effect: Create a 50hp 50 armour wall occupying 3 squares, at least one of which must be next to you
+Type: Earth
+
+Mage's Steed
+Cost: 30 mana
+Effect: Creates a magical horse that doubles the rider's movement speed for 10 turns
+Boost: For 30 mana, create a flying horse that gives the rider the advantages of being a flying unit
 
