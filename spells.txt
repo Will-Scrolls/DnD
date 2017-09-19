@@ -1,1 +1,17 @@
+Fireball
+Cost: 20 mana
+Effect: Deal 10 damage to enemies in a 2 square radius of target enemy
+Type: Fire
+
+Magic Bolt
+Cost: 5 mana
+Effect: Deal 3 damage to target enemy
+
+Force Shield
+Cost: 10 mana
+Effect: Gain +20 armour for 5 turns
+
+Return Weapon
+Cost: 5 mana
+Effect: Target weapon thrown during this battle attacks target enemy then returns to your hand
 
