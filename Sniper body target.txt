@@ -6,3 +6,4 @@ Lung					Choking -2d6 stamina/turn			Yes
 Brain					Confused -2d6 mana/turn				Yes
 Neck					-1d4 hp, stamina and mana /turn			Yes
 Eye					-2 all stats					Max 2
+Face					-5 charisma					Yes
