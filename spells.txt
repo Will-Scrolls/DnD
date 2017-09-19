@@ -205,5 +205,15 @@ Effect: 60 damage to target enemy, Roll d4 and if 4 burn for 1.5xlv hp and stami
 
 Vortex
 Cost: 80 mana
-Effect: 
+Effect: Water pulse but a whirlwind appears centered around where you hit
+
+Stone Spinner
+Cost: 80 mana
+Effect: Hits four adjacent enemies with stalagmite
+
+VAPORIZER
+Cost: 95 mana
+Effect: Deal 100 damage, THey roll D6 if 1 they die and leave no corpse so they can't be reserected. Doesn't work on bosses.
+
+
 
