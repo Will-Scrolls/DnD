@@ -108,3 +108,47 @@ Effect: Target opponent takes 40 damage
 Summon Wolf
 Cost: 5 mana
 Effect: Summon and control a wolf
+
+Summon Fire Elemental
+Cost: 20 mana
+Effect: Summon and control a fire elemental
+
+Summon Water Elemental
+Cost: 20 mana
+Effect: Summon and control a water elemental
+
+Summon Earth Elemental
+Cost: 20 mana
+Effect: Summon and control a earth elemental
+
+Summon Air Elemental
+Cost: 20 mana
+Effect: Summon and control an air elemental
+
+Summon Ultimate Elemental
+Cost: 80 mana
+Effect: Summon and control an Ultimate elemental
+
+Flames
+Cost: 5 mana
+Effect: 3 damage, Roll D4 if 4 burn opponent. Burns deal damage every turn equal to opponent's level, roll D6 for number of turns it lasts.
+
+Water Orb
+Cost: 5 mana
+Effect: 3 Damage, Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up for D6 amount of turns.
+
+Stone Skin
+Cost: 5 mana
+Effect: +4 Armour +4 HP, , roll D6 for number of turns it lasts.
+
+Float
+Cost: 5 mana
+Effect: Turn unit into a flier for D6 amount of turns.
+
+Flame Form 
+Cost: 60
+Effect: +5 Magic -5 Armour * 1.5 damage from water spells
+
+Water Form
+Cost 60
+Effect: +5 Skill +5 Luck * 1.5 damage  
