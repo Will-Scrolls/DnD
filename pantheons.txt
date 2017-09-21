@@ -9,6 +9,10 @@ Demon Sultan
 Active: Take a -x penalty to accuracy to deal 2x bonus damage
 +5 strength -5 int -5 stamina
 
+Hastur
+The Unspeakable One
+Active: Spend 5 mana, 10 hp and 5 stamina to become invisible for two turns
++2 skill -2 charisma
 
 Nylarthotep
 Outer God of Forbidden Secrets
