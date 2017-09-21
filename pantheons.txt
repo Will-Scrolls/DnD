@@ -4,6 +4,11 @@ Active: Spend 10 hp and 10 mana to summon a 5hp minor shoggoth
 +2 charisma, -2 skill
 Pantheon: Mythos
 
+Azazoth
+Demon Sultan
+Active: Take a -x penalty to accuracy to deal 2x bonus damage
++5 strength -5 int -5 stamina
+
 
 Nylarthotep
 Outer God of Forbidden Secrets
@@ -51,3 +56,4 @@ Hecatia
 Goddess of Hell
 Active: spend 1/2 your current hp to summon a demon copy of yourself for one round
 +2 strength -5 mana
+Pantheon: Touhou
