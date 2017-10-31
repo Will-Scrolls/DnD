@@ -16,7 +16,7 @@ Active: Spend 5 mana, 10 hp and 5 stamina to become invisible for two turns
 
 Nyarlathotep
 The crawling chaos
-Active: Lose 1/2 your hp to gain 20 armour and 5 strength for 5 rounds
+Active: Lose 1/2 your hp to gain 50 armour and 20 strength for 5 rounds
 +2 charisma -5 hp
 
 
