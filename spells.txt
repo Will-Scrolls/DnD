@@ -165,7 +165,7 @@ Effect: +10 Armour -10 Speed for D12 amount of turns
 
 True Form
 Cost: 85 mana
-Effect: +10 Magic, +10 Armour, +10 Speed, -10 Luck, -10 Charisma, -10 Skill, hp/mana/stamina loss be reduced by 1 quarter of spell/skill/damage
+Effect: +10 Magic, +10 Armour, +10 Speed, -10 Luck, -10 Charisma, -10 Skill, hp/mana/stamina loss is reduced by 1 quarter of damage  /spell cost/skill cost
 
 Pyroblast
 Cost: 60 mana
