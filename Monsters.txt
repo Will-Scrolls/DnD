@@ -1,0 +1,16 @@
+Landshark
+HP 5
+Bite 5 dmg
+
+Wolf
+HP 2
+Bite 1 dmg
+
+Chained Devil
+HP 25
+Whip 10 dmg, useable 3x per round
+Always moves last in a turn
+
+Frost Hound
+HP 10
+Bite 3 damage and slow
