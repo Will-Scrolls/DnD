@@ -209,7 +209,7 @@ Effect: Water pulse but a whirlwind appears centered around where you hit
 
 Stone Spinner
 Cost: 80 mana
-Effect: Hits four adjacent enemies with stalagmite
+Effect: Deal 60 danage to opponents in 2x2 square and 30 damage to adjacent opponents
 
 VAPORIZER
 Cost: 95 mana
