@@ -1,8 +1,9 @@
+Pantheon: Mythos
+
 Cthylla
 Daughter of Cthulhu
 Active: Spend 10 hp and 10 mana to summon a 5hp minor shoggoth
 +2 charisma, -2 skill
-Pantheon: Mythos
 
 Azazoth
 Demon Sultan
@@ -20,23 +21,22 @@ Active: Lose 1/2 your hp to gain 50 armour and 20 strength for 5 rounds
 +2 charisma -5 hp
 
 
+Pantheon: Starfinder
+
 Nylarthotep
 Outer God of Forbidden Secrets
 Active: Lose 20 hp to gain +10 str +10 magic for one turn
 +2 intelligence, -2 luck
-Pantheon: Starfinder
 
 Sarenrae
 Goddess of Healing
 Active: Whenever you heal someone, recover that much health
 +5 mana, -2 strength
-Pantheon: Starfinder
 
 Triune
 God of Intelligence and Travel
 Active: Take 5 damage to gain one round of double movement
 +2 intelligence, -2 strength
-Pantheon: Starfinder
 
 Yaraesa
 Goddess of Sholarship and Knowledge
@@ -47,23 +47,26 @@ Zon-Kuthon
 God of Pain and Loss
 Active: When you are crit by an opponent, gain +20 strength for next attack
 +2 strength, -2 charisma
-Pantheon: Starfinder
 
+
+Pantheon: Touhou
 
 Kanako
 Goddess of the Heavens
 Active: Spend 5 mana/turn to fly with half movement
 +2 movement, -5 hp
-Pantheon: Touhou
 
 Suwako
 Goddess of the Earth
 Active: Spend 5 mana to create an earth shield with 10hp in an empty adjacent square
 +10 armour, -2 movement
-Pantheon: Touhou
 
 Hecatia
 Goddess of Hell
 Active: Spend 1/2 your current hp to summon a demon copy of yourself for one round
 +2 strength -5 mana
-Pantheon: Touhou
+
+Tenshi
+Celestial Child
+Active: When you are crit by an opponent, cast any spell you know as a reaction
++2 movement -2 int
