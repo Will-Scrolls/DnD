@@ -61,3 +61,159 @@ Cost: 30 mana
 Effect: Creates a magical horse that doubles the rider's movement speed for 10 turns
 Boost: For 30 mana, create a flying horse that gives the rider the advantages of being a flying unit
 
+Storm of Vengeance
+Cost: 100 mana
+Effect: Deal 20 damage to all enemy and friendly units in battle and their speed is halved
+Boost: Spend 50 mana/turn to maintain the effect for multiple turns
+Type: Nature
+
+Sandstorm
+Cost: 5 mana/turn
+Effect: All units take 2 damage per turn and a -4 penalty on all ranged attacks
+Type: Earth
+
+Acid Dart
+Cost: 15 mana
+Effect: Target opponent takes 5 damage per turn from acid
+
+Cone of Cold
+Cost: 25 mana
+Effect: Opponents in a 5 square cone take 4 damage and move at half speed for 3 rounds
+Type: Water
+
+Ice Ray
+Cost: 10 mana
+Effect: Target opponent takes 3 damage and moves at half speed for 3 rounds
+Type: Water
+
+Polarblast
+Cost: 40 mana
+Effect: All opponents within 5 squares take 6 damage and move at half speed for 5 rounds
+Type: Water
+
+Searing Beam
+Cost: 10 Mana
+Effect: Target opponent takes 6 damage and takes 6 more damage at the start of their next turn
+Type: Fire
+
+Summon Landshark
+Cost: 20 mana
+Effect: A landshark appears next to you and attacks the nearest enemy
+Type: Summoning
+
+Laser Cannon
+Cost: 30 mana
+Effect: Target opponent takes 40 damage
+
+Summon Wolf
+Cost: 5 mana
+Effect: Summon and control a wolf
+
+Elemental Spells:
+
+Summon Fire Elemental
+Cost: 20 mana
+Effect: Summon and control a fire elemental
+
+Summon Water Elemental
+Cost: 20 mana
+Effect: Summon and control a water elemental
+
+Summon Earth Elemental
+Cost: 20 mana
+Effect: Summon and control a earth elemental
+
+Summon Air Elemental
+Cost: 20 mana
+Effect: Summon and control an air elemental
+
+Summon Ultimate Elemental
+Cost: 80 mana
+Effect: Summon and control an Ultimate elemental
+
+Flames
+Cost: 10 mana
+Effect: 3 damage, Roll D4 if 4 burn opponent. Burns deal damage every turn equal to opponent's level, roll D6 for number of turns it lasts.
+
+Water Orb
+Cost: 5 mana
+Effect: 3 Damage, Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up.
+
+Stone Skin
+Cost: 5 mana
+Effect: +4 Armour +4 HP, , roll D6 for number of turns it lasts.
+
+Float
+Cost: 5 mana
+Effect: Turn unit into a flier for D6 amount of turns.
+
+Flame Form 
+Cost: 60 mana
+Effect: +10 Magic -10 Armour * 1.5 damage from water spells for D12 amount of turns
+
+Water Form
+Cost: 60 mana
+Effect: +10 Skill -10 Luck * 1.5 damage  from nature spells for D12 amount of turns
+
+Air Form
+Cost: 60 mana
+Effect: Turn into a flier +10 Speed -10 Magic for D12 amount of turns
+
+Earth Form 
+Cost: 60 mana
+Effect: +10 Armour -10 Speed for D12 amount of turns
+
+True Form
+Cost: 85 mana
+Effect: +10 Magic, +10 Armour, +10 Speed, -10 Luck, -10 Charisma, -10 Skill, hp/mana/stamina loss be reduced by 1 quarter of spell/skill/damage
+
+Pyroblast
+Cost: 60 mana
+Effect: 60 damage , Roll D4 if 4 Burn, D12 for how many turns the burn lasts. Burns deal damage every turn equal to opponent's level.
+
+Blaze
+Cost: 55 mana
+Effect: Deals 30 damage to all enemies adjacent to you. Roll D4 if 4 Burn, D12 for how many turns the burn lasts. Burns deal damage every turn equal to opponent's level.
+
+Water Pulse
+Cost: 60 mana
+Effect: 60 damage , Roll D4 if 4 Take stamina damage equal to opponent's level * 1.5 rounded up.
+
+Aqua Ring
+Cost: 55 mana
+Effect: All adjacent allies heal half max HP last 2 turns.
+
+Stalagmite
+Cost: 60 mana
+Effect: Deal 60 damage to target opponent and 30 damage to adjacent opponents.
+
+Stone Shield
+Cost: 55 mana
+Effect: You and a target ally recieve armour equal to your level.
+
+Whirlwind
+Cost: 60 mana
+Effect: Deals 30 damage in a 2 square radius and you can rearange all enemies in that radius to another point in the radius.
+
+Galeforce
+Cost: 55 mana
+Effect: 40 damage to target enemy and they move away from you in a straight line, taking 5 damage per square moved.
+
+Steam Blast
+Cost: 80 mana
+Effect: 60 damage to target enemy, Roll d4 and if 4 burn for 1.5xlv hp and stamina damage per turn for 1d6 turns
+
+Vortex
+Cost: 80 mana
+Effect: Water pulse but a whirlwind appears centered around where you hit
+
+Stone Spinner
+Cost: 80 mana
+Effect: Hits four adjacent enemies with stalagmite
+
+VAPORIZER
+Cost: 95 mana
+Effect: Deal 100 damage, THey roll D6 if 1 they die and leave no corpse so they can't be reserected. Doesn't work on bosses.
+
+
+
