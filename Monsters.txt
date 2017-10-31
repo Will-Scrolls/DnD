@@ -13,4 +13,4 @@ Always moves last in a turn
 
 Frost Hound
 HP 10
-Bite 3 damage and slow
+Bite 3 dmg and slow
