@@ -193,7 +193,7 @@ Effect: You and a target ally recieve armour equal to your level.
 
 Whirlwind
 Cost: 60 mana
-Effect: Deals 30 damage in a 2 square radius and you can rearange all enemies in that radius to another point in the radius.
+Effect: Deals 30 damage in a 2 square radius and you can rearange all enemies in that radius to any other point in the radius.
 
 Galeforce
 Cost: 55 mana
@@ -209,11 +209,11 @@ Effect: Water pulse but a whirlwind appears centered around where you hit
 
 Stone Spinner
 Cost: 80 mana
-Effect: Deal 60 danage to opponents in 2x2 square and 30 damage to adjacent opponents
+Effect: Deal 60 damage to opponents in 2x2 square and 30 damage to adjacent opponents
 
 VAPORIZER
 Cost: 95 mana
-Effect: Deal 100 damage, THey roll D6 if 1 they die and leave no corpse so they can't be reserected. Doesn't work on bosses.
+Effect: Deal 100 damage, they roll D6 if 1 they die and leave no corpse so they can't be ressurected. Doesn't work on bosses.
 
 
 
