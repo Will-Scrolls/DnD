@@ -108,8 +108,17 @@ Effect: Target opponent takes 40 damage
 Summon Wolf
 Cost: 5 mana
 Effect: Summon and control a wolf
+Type: Summoning
 
-Elemental Spells:
+Divine Strike
+Cost: 30 mana
+Effect: Your next melee attack cannot miss and deals x2 damage
+
+Earth Spines
+Cost: 50 mana
+Effect: 10 damage to enemies in 10 square cone and they cannot move for 3 turns (they can still attack, cast spells etc unless that would move them)
+
+Elemental Tree Spells:
 
 Summon Fire Elemental
 Cost: 20 mana
