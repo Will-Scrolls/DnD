@@ -55,3 +55,17 @@ Shadow Slime
 HP 20
 Slam 10 dmg
 20% dodge chance
+
+Luminous Slime
+HP 20
+Slam 10 dmg + target cannot be missed for 1d6 turns
+Attacks against a luminous slime always hit
+
+Verdant Slime
+HP 30
+Slam 10 dmg
+Heals 3hp at the start of its turn
+
+Earth Slime
+HP 30
+Slam 15 dmg
