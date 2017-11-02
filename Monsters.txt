@@ -33,3 +33,25 @@ HP 150
 2x2 Squares
 Slam 10 dmg + slow
 x2 damage from fire, but gain +4 speed each time fire damage is taken
+
+Acid Slime
+HP 20
+Slam 10 dmg + 2 continuing damage / turn for 2d6 turns
+
+Sticky Slime
+HP 30
+Slam 10 dmg + slow
+
+Bouncy Slime
+HP 20
+Slam 10 dmg
+Increased movement speed
+
+Lava Slime
+HP 20
+Slam 15 dmg + burn 5 dmg / turn for 2 turns
+
+Shadow Slime
+HP 20
+Slam 10 dmg
+20% dodge chance
