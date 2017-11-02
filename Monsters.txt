@@ -32,4 +32,4 @@ Frozen Behemoth
 HP 150
 2x2 Squares
 Slam 10 dmg + slow
-x2 damage from fire, but gain +4 speed each time fire damage is recieved
+x2 damage from fire, but gain +4 speed each time fire damage is taken
