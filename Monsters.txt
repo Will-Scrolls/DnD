@@ -81,3 +81,8 @@ Bite 2 dmg
 Venom Lizard
 HP 50
 Bite 12 dmg + Poison 3 dmg/turn and -5 str for 2d0 turns
+
+Tunneling Lizard
+HP 10
+Bite 4 dmg
+Cannot be damaged except by earth spells
