@@ -69,3 +69,7 @@ Heals 3hp at the start of its turn
 Earth Slime
 HP 30
 Slam 15 dmg
+
+Toxic Slime
+HP 20
+Slam 10 dmg + 1 dmg/turn for 10 turns
