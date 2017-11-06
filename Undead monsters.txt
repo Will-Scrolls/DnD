@@ -1,0 +1,3 @@
+Zombie
+10hp
+Slam 4 dmg
