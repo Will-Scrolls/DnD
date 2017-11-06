@@ -74,6 +74,10 @@ Toxic Slime
 HP 20
 Slam 10 dmg + 1 dmg/turn for 10 turns
 
+Draining Slime
+HP 20
+Slam 10 dmg + restore 10 hp to draining slime
+
 Desert Lizard
 HP 10
 Bite 2 dmg
@@ -91,3 +95,8 @@ Giant Scorpion
 HP 40
 Armour 36
 2 Claws 8 dmg and Sting 2 dmg + poison 4 dmg/turn and -6 str for 1d6 turns
+
+Vampire Bat
+HP 5
+Bite 2 dmg + restore 2 hp
+
