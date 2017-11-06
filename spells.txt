@@ -16,7 +16,7 @@ Cost: 10 mana
 Effect: Target weapon thrown during this battle attacks target enemy then returns to your hand
 
 Rapid Plant Growth
-Cost: 15 mana
+Cost: 25 mana
 Effect: Target enemy and all adjacent enemies cannot move for 2 turns
 Type: Nature
 
