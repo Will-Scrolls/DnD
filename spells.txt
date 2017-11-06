@@ -222,7 +222,7 @@ Effect: Deal 60 damage to opponents in 2x2 square and 30 damage to adjacent oppo
 
 VAPORIZER
 Cost: 180 mana
-Effect: Deal 100 damage, they roll D6 if 1 they die and leave no corpse so they can't be ressurected. Doesn't work on bosses.
+Effect: Deal 100 damage, target rolls D6 if 1 they die and leave no corpse so they can't be ressurected. Doesn't work on bosses.
 
 
 
