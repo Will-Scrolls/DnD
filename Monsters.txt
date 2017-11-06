@@ -15,10 +15,6 @@ Frost Hound
 HP 10
 Bite 3 dmg and slow
 
-Lesser Skeleton
-HP 5
-Dagger 2 dmg
-
 Core Hound
 HP 5
 Bite 9 dmg
