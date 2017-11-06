@@ -1,3 +1,7 @@
 Zombie
-10hp
+HP 10
 Slam 4 dmg
+
+Lesser Skeleton
+HP 5
+Dagger 2 dmg
