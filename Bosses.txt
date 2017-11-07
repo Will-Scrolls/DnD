@@ -67,7 +67,7 @@ HP 500
 361 armour
 2x2 squares
 Attacks
-	Venom Lash 30 dmg + poison 100dmg/turn, -20 speed, -40 skill, blindness (hits all opponents within 3 squares)
+	Venom Lash 30 dmg + poison 100dmg/turn, -20 speed, -40 skill, blindness for 10 turns (hits all opponents within 3 squares)
 Abilities
 	Immune to water, air and earth element spells
 	x2 damage from fire
