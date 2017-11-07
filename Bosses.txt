@@ -46,3 +46,18 @@ Abilities
 	Dispel magic (standard action)
 	Counterspell (1/turn)
 	Debuff immunity
+
+Leviathan
+HP 20000
+100 Armour
+10x10 squares
+Attacks
+	10x Tentacle 100 dmg (5sq melee range)
+	Bite 1500 dmg
+	Crush 400 dmg (Autohits all opponents in same square)
+Abilities
+	Immune to fire
+	Immune to arrows
+	Immune to swords and axes
+	Immune to air-element spells
+	Immune to earth-element spells
