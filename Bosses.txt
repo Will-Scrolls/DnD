@@ -2,9 +2,23 @@ Zombie Lord
 HP 1000
 144 Armour
 Attacks
-  Slam 100 dmg
-  Claw 80 dmg + poison 3dmg/turn for 5 turns
-  Bite 20 dmg + poison 10dmg/turn for 10 turns
+	Slam 100 dmg
+	Claw 80 dmg + poison 3dmg/turn for 5 turns
+	Bite 20 dmg + poison 10dmg/turn for 10 turns
 Abilities
-  Fire immunity
-  Immunity to arrows
+	Fire immunity
+	Immunity to arrows
+
+Spider Mother
+HP 500
+81 Armour
+3x3 squares
+Attacks
+	Bite 40 dmg + poison 5dmg/turn -10 str -10 agi for 10 turns
+Abilities
+	Web tiles created on tiles with spider mother and all adjacent tiles
+	x2 movement while on web tiles
+Minions
+	Baby spider
+	HP 1
+	Bite 1 dmg
