@@ -1,0 +1,17 @@
+Inferno Dragon
+200hp
+Attacks
+	Bite 50 dmg
+	Fire Cone 10 squares 20 dmg + burn 5dmg/turn for 1d6 turns
+
+Frost Dragon
+200hp
+Attacks
+	Bite 50 dmg
+	Ice Spikes 5 squares radius 5 dmg + Slow
+
+Berserk Dragon
+500hp
+Attacks
+	Bite 100 dmg
+	2x Claw 30 dmg
