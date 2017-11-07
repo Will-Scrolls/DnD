@@ -30,5 +30,6 @@ Attacks
 	Bite 50 dmg (1/head)
 Abilities
 	Each head has 50hp 100 armour
-	When a head is lost, the hydra loses 200hp and grows 2 new heads next turn
+	When a head is lost, the hydra loses 10 armour and grows 2 new heads next turn
 	Starts with 3 heads
+	Armour stops decreasing after it reaches 100
