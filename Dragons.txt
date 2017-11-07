@@ -15,3 +15,10 @@ Berserk Dragon
 Attacks
 	Bite 100 dmg
 	2x Claw 30 dmg
+
+Corrupted Dragon
+300hp
+Attacks
+	Bite 80 dmg
+	Darkness Blast ranged 60 dmg
+Loses 5hp when it attacks
