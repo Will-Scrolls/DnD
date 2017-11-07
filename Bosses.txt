@@ -33,3 +33,16 @@ Abilities
 	When a head is lost, the hydra loses 10 armour and grows 2 new heads next turn
 	Starts with 3 heads
 	Armour stops decreasing after it reaches 100
+
+Demon Lord
+HP 8000
+324 Armour
+Attacks
+	2x Whip 350 dmg (2sq melee range)
+	Dark aura 10 dmg/turn (8sq radius)
+Abilities
+	Immune to fire
+	Immune to necromancy
+	Dispel magic (standard action)
+	Counterspell (1/turn)
+	Debuff immunity
