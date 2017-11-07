@@ -96,3 +96,20 @@ Vampire Bat
 HP 5
 Bite 2 dmg + restore 2 hp
 
+Giant Spider
+HP 20
+Bite 5 dmg + poison -4 agi for 2d6 turns
+
+Giant Weaver
+HP 40
+Bite 5 dmg
+Web: creates web tiles as it moves, web tiles reduce movement and agility by 50%
+
+Spider Tunneler
+HP 20
+Bite 5 dmg + poison -2 agi for 1d4 turns
+Takes one quarter damage from attacks other than earth spells
+
+Venom Master Spider
+HP 50
+Bite 10 dmg + poison 10 dmg/turn, -5 str and -5 agi for 3d6 turns
