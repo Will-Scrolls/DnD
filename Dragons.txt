@@ -1,29 +1,29 @@
-Inferno Dragon
+Inferno Hatchling
 200hp
 Attacks
 	Bite 50 dmg
 	Fire Cone 10 squares 20 dmg + burn 5dmg/turn for 1d6 turns
 
-Frost Dragon
+Frost Hatchling
 200hp
 Attacks
 	Bite 50 dmg
 	Ice Spikes 5 squares radius 5 dmg + Slow
 
-Berserk Dragon
+Berserk Hatchling
 500hp
 Attacks
 	Bite 100 dmg
 	2x Claw 30 dmg
 
-Corrupted Dragon
+Corrupted Hatchling
 300hp
 Attacks
 	Bite 80 dmg
 	Darkness Blast ranged 60 dmg
 Loses 5hp when it attacks
 
-Vampire Dragon
+Vampire Hatchling
 250hp
 Attacks
 	Bite 70 dmg, restore 70hp on hit
