@@ -22,3 +22,10 @@ Attacks
 	Bite 80 dmg
 	Darkness Blast ranged 60 dmg
 Loses 5hp when it attacks
+
+Vampire Dragon
+250hp
+Attacks
+	Bite 70 dmg, restore 70hp on hit
+	Aura of darkness 5dmg/turn
+Takes 2 dmg/turn in sun
