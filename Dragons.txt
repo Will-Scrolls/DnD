@@ -27,5 +27,5 @@ Vampire Dragon
 250hp
 Attacks
 	Bite 70 dmg, restore 70hp on hit
-	Aura of darkness 5dmg/turn
+	Aura of darkness 5dmg/turn, restore hp equal to damage dealt
 Takes 2 dmg/turn in sun
