@@ -61,7 +61,7 @@ Vampire Juvenile
 Attacks
 	Bite 260 dmg, restore 260hp on hit
 	Aura of darkness 30dmg/turn, restore hp equal to damage dealt
-Takes 2 dmg/turn in sun
+Takes 10 dmg/turn in sun
 
 
 Inferno Dragon
@@ -94,4 +94,37 @@ Vampire Dragon
 Attacks
 	Bite 670 dmg, restore 670hp on hit
 	Aura of darkness 110dmg/turn, restore hp equal to damage dealt
-Takes 2 dmg/turn in sun
+Takes 50 dmg/turn in sun
+
+
+Inferno Wyrm
+15000hp
+Attacks
+	Bite 700 dmg
+	Fire Cone 110 squares 320 dmg + burn 80dmg/turn for 6d10 turns
+
+Frost Wyrm
+15000hp
+Attacks
+	Bite 700 dmg
+	Ice Spikes 40 squares radius 200 dmg + Slow
+
+Berserk Wyrm
+50000hp
+Attacks
+	Bite 1900 dmg
+	8x Claw 610 dmg
+
+Corrupted Wyrm
+23000hp
+Attacks
+	Bite 1000 dmg
+	Darkness Blast ranged 500 dmg
+Loses 200hp when it attacks
+
+Vampire Wyrm
+20000hp
+Attacks
+	Bite 900 dmg, restore 900hp on hit
+	Aura of darkness 200dmg/turn, restore hp equal to damage dealt
+Takes 120 dmg/turn in sun
