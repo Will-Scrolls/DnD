@@ -47,18 +47,51 @@ Berserk Juvenile
 3000hp
 Attacks
 	Bite 600 dmg
-	2x Claw 120 dmg
+	4x Claw 120 dmg
 
 Corrupted Juvenile
 1700hp
 Attacks
 	Bite 300 dmg
 	Darkness Blast ranged 160 dmg
-Loses 5hp when it attacks
+Loses 20hp when it attacks
 
 Vampire Juvenile
 1500hp
 Attacks
 	Bite 260 dmg, restore 260hp on hit
 	Aura of darkness 30dmg/turn, restore hp equal to damage dealt
+Takes 2 dmg/turn in sun
+
+
+Inferno Dragon
+5000hp
+Attacks
+	Bite 500 dmg
+	Fire Cone 60 squares 180 dmg + burn 40dmg/turn for 5d10 turns
+
+Frost Dragon
+5000hp
+Attacks
+	Bite 500 dmg
+	Ice Spikes 20 squares radius 100 dmg + Slow
+
+Berserk Dragon
+17000hp
+Attacks
+	Bite 1100 dmg
+	6x Claw 380 dmg
+
+Corrupted Dragon
+8000hp
+Attacks
+	Bite 800 dmg
+	Darkness Blast ranged 300 dmg
+Loses 100hp when it attacks
+
+Vampire Dragon
+6500hp
+Attacks
+	Bite 670 dmg, restore 670hp on hit
+	Aura of darkness 110dmg/turn, restore hp equal to damage dealt
 Takes 2 dmg/turn in sun
