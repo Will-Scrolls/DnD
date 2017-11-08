@@ -29,3 +29,36 @@ Attacks
 	Bite 70 dmg, restore 70hp on hit
 	Aura of darkness 5dmg/turn, restore hp equal to damage dealt
 Takes 2 dmg/turn in sun
+
+
+Inferno Juvenile
+1000hp
+Attacks
+	Bite 200 dmg
+	Fire Cone 30 squares 80 dmg + burn 20dmg/turn for 3d6 turns
+
+Frost Juvenile
+1000hp
+Attacks
+	Bite 200 dmg
+	Ice Spikes 10 squares radius 20 dmg + Slow
+
+Berserk Juvenile
+3000hp
+Attacks
+	Bite 600 dmg
+	2x Claw 120 dmg
+
+Corrupted Juvenile
+1700hp
+Attacks
+	Bite 300 dmg
+	Darkness Blast ranged 160 dmg
+Loses 5hp when it attacks
+
+Vampire Juvenile
+1500hp
+Attacks
+	Bite 260 dmg, restore 260hp on hit
+	Aura of darkness 30dmg/turn, restore hp equal to damage dealt
+Takes 2 dmg/turn in sun
