@@ -72,3 +72,12 @@ Abilities
 	Immune to water, air and earth element spells
 	x2 damage from fire
 	Fire damage ignores armour
+
+Mana Demon
+HP 1200
+100 armour
+Attacks
+	Slam 100 dmg + target loses 10% of their max mana
+Abilities
+	Draining aura: opponents within 40 squares lose 50 mana/turn and mana demon restores 1hp for each mana lost
+	Immune to spells
