@@ -81,3 +81,17 @@ Attacks
 Abilities
 	Draining aura: opponents within 40 squares lose 50 mana/turn and mana demon restores 1hp for each mana lost
 	Immune to spells
+
+Cultist King
+HP 400
+Mana 1000
+361 armour
+Attacks
+	Magic Dagger 30 dmg + bleed 250 dmg/turn for 20 turns, cultist restores health and mana equal to damage dealt
+	Darkness Beam 500 dmg + blindness for 20 turns, 50 square line
+Abilities
+	Takes 95% less damage from magic
+	Immune to damage over time effects
+Spells
+	Swarm of Darkness (no hp cost)
+	Polarblast
