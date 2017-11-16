@@ -95,3 +95,15 @@ Abilities
 Spells
 	Swarm of Darkness (no hp cost)
 	Polarblast
+
+Dragon King
+HP 100000
+392 armour
+Attacks
+	Bite 5000 dmg
+	Fire Cone 100 squares 2000 dmg + burn 1000 dmg/turn for 5 turns
+Abilities
+	Immune to all effects of spells except damage
+	Takes 99% less damage from magic
+	Immune to damage over time effects
+	75% chance to take 0 damage from ranged attacks
