@@ -47,6 +47,27 @@ Abilities
 	Counterspell (1/turn)
 	Debuff immunity
 
+Spider Demon
+HP 12000
+324 Armour
+Attacks
+	8x Claw 400 dmg
+	Bite 200 dmg + poison -40 str -40 agi -40 speed 30 dmg/turn for 2d6+10 turns
+Abilities
+	Immune to fire
+	Immune to necromancy
+	Dispel magic (standard action)
+	Counterspell (1/turn)
+	Debuff immunity
+Abilities
+	Web tiles created on tiles with spider mother and all adjacent tiles
+	x5 movement while on web tiles
+Minions
+	Demonic Spawn
+	HP 30
+	100 Armour
+	Bite 5 dmg
+
 Leviathan
 HP 20000
 100 Armour
