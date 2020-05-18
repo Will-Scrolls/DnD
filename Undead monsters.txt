@@ -1,0 +1,21 @@
+Zombie
+HP 10
+Slam 4 dmg
+
+Mutant Zombie
+HP 120
+Armour 100
+Slam 50 dmg
+
+Lesser Skeleton
+HP 5
+Dagger 2 dmg
+
+Skeleton Wolf
+HP 10
+Bite 5 dmg
+
+Skeleton Dragon
+HP 200
+Armour 100
+Bite 80 dmg

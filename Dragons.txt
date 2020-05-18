@@ -1,0 +1,130 @@
+Inferno Hatchling
+200hp
+Attacks
+	Bite 50 dmg
+	Fire Cone 10 squares 20 dmg + burn 5dmg/turn for 1d6 turns
+
+Frost Hatchling
+200hp
+Attacks
+	Bite 50 dmg
+	Ice Spikes 5 squares radius 5 dmg + Slow
+
+Berserk Hatchling
+500hp
+Attacks
+	Bite 100 dmg
+	2x Claw 30 dmg
+
+Corrupted Hatchling
+300hp
+Attacks
+	Bite 80 dmg
+	Darkness Blast ranged 60 dmg
+Loses 5hp when it attacks
+
+Vampire Hatchling
+250hp
+Attacks
+	Bite 70 dmg, restore 70hp on hit
+	Aura of darkness 5dmg/turn, restore hp equal to damage dealt
+Takes 2 dmg/turn in sun
+
+
+Inferno Juvenile
+1000hp
+Attacks
+	Bite 200 dmg
+	Fire Cone 30 squares 80 dmg + burn 20dmg/turn for 3d6 turns
+
+Frost Juvenile
+1000hp
+Attacks
+	Bite 200 dmg
+	Ice Spikes 10 squares radius 20 dmg + Slow
+
+Berserk Juvenile
+3000hp
+Attacks
+	Bite 600 dmg
+	4x Claw 120 dmg
+
+Corrupted Juvenile
+1700hp
+Attacks
+	Bite 300 dmg
+	Darkness Blast ranged 160 dmg
+Loses 20hp when it attacks
+
+Vampire Juvenile
+1500hp
+Attacks
+	Bite 260 dmg, restore 260hp on hit
+	Aura of darkness 30dmg/turn, restore hp equal to damage dealt
+Takes 10 dmg/turn in sun
+
+
+Inferno Dragon
+5000hp
+Attacks
+	Bite 500 dmg
+	Fire Cone 60 squares 180 dmg + burn 40dmg/turn for 5d10 turns
+
+Frost Dragon
+5000hp
+Attacks
+	Bite 500 dmg
+	Ice Spikes 20 squares radius 100 dmg + Slow
+
+Berserk Dragon
+17000hp
+Attacks
+	Bite 1100 dmg
+	6x Claw 380 dmg
+
+Corrupted Dragon
+8000hp
+Attacks
+	Bite 800 dmg
+	Darkness Blast ranged 300 dmg
+Loses 100hp when it attacks
+
+Vampire Dragon
+6500hp
+Attacks
+	Bite 670 dmg, restore 670hp on hit
+	Aura of darkness 110dmg/turn, restore hp equal to damage dealt
+Takes 50 dmg/turn in sun
+
+
+Inferno Wyrm
+15000hp
+Attacks
+	Bite 700 dmg
+	Fire Cone 110 squares 320 dmg + burn 80dmg/turn for 6d10 turns
+
+Frost Wyrm
+15000hp
+Attacks
+	Bite 700 dmg
+	Ice Spikes 40 squares radius 200 dmg + Slow
+
+Berserk Wyrm
+50000hp
+Attacks
+	Bite 1900 dmg
+	8x Claw 610 dmg
+
+Corrupted Wyrm
+23000hp
+Attacks
+	Bite 1000 dmg
+	Darkness Blast ranged 500 dmg
+Loses 200hp when it attacks
+
+Vampire Wyrm
+20000hp
+Attacks
+	Bite 900 dmg, restore 900hp on hit
+	Aura of darkness 200dmg/turn, restore hp equal to damage dealt
+Takes 120 dmg/turn in sun

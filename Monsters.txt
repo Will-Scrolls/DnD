@@ -1,0 +1,115 @@
+Landshark
+HP 5
+Bite 5 dmg
+
+Wolf
+HP 2
+Bite 1 dmg
+
+Chained Devil
+HP 25
+Whip 10 dmg, useable 3x per round
+Always moves last in a turn
+
+Frost Hound
+HP 10
+Bite 3 dmg and slow
+
+Core Hound
+HP 5
+Bite 9 dmg
+
+Living Lava
+HP 100
+3x3 Squares
+Slam 30 dmg + burn 5 dmg/turn
+
+Frozen Behemoth
+HP 150
+2x2 Squares
+Slam 10 dmg + slow
+x2 damage from fire, but gain +4 speed each time fire damage is taken
+
+Acid Slime
+HP 20
+Slam 10 dmg + 2 continuing damage / turn for 2d6 turns
+
+Sticky Slime
+HP 30
+Slam 10 dmg + slow
+
+Bouncy Slime
+HP 20
+Slam 10 dmg
+Increased movement speed
+
+Lava Slime
+HP 20
+Slam 15 dmg + burn 5 dmg / turn for 2 turns
+
+Shadow Slime
+HP 20
+Slam 10 dmg
+20% dodge chance
+
+Luminous Slime
+HP 20
+Slam 10 dmg + target cannot be missed for 1d6 turns
+Attacks against a luminous slime always hit
+
+Verdant Slime
+HP 30
+Slam 10 dmg
+Heals 3hp at the start of its turn
+
+Earth Slime
+HP 30
+Slam 15 dmg
+
+Toxic Slime
+HP 20
+Slam 10 dmg + 1 dmg/turn for 10 turns
+
+Draining Slime
+HP 20
+Slam 10 dmg + restore 10 hp to draining slime
+
+Desert Lizard
+HP 10
+Bite 2 dmg
+
+Venom Lizard
+HP 50
+Bite 12 dmg + Poison 3 dmg/turn and -5 str for 2d10 turns
+
+Tunneling Lizard
+HP 10
+Bite 4 dmg
+Cannot be damaged except by earth spells
+
+Giant Scorpion
+HP 40
+Armour 36
+2 Claws 8 dmg and Sting 2 dmg + poison 4 dmg/turn and -6 str for 1d6 turns
+
+Vampire Bat
+HP 5
+Bite 2 dmg + restore 2 hp
+
+Giant Spider
+HP 20
+Bite 5 dmg + poison -4 agi for 2d6 turns
+
+Giant Weaver
+HP 40
+Bite 5 dmg
+Web: creates web tiles as it moves, web tiles reduce movement and agility by 50%
+
+Spider Tunneler
+HP 20
+Bite 5 dmg + poison -2 agi for 1d4 turns
+Takes one quarter damage from attacks other than earth spells
+
+Venom Master Spider
+HP 50
+Bite 10 dmg + poison 10 dmg/turn, -5 str and -5 agi for 3d6 turns

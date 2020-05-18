@@ -11,3 +11,6 @@ Mana
 Stamina
 
 Movement
+
+Armour
+Resistance
